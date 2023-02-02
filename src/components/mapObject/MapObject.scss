@@ -1,0 +1,57 @@
+.map-object {
+    display: flex;
+    padding: 10px 30px 10px 10px;
+
+    &__info {
+        padding: 10px;
+    }
+
+    &__title {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        color: #212121;
+    }
+
+    &__location {
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        line-height: 20px;
+        color: #8494A1;
+    }
+
+    &__image {
+        width: 180px;
+        height: 140px;
+        border-radius: 2px;
+    }
+
+    &__status {
+        display: flex;
+        gap: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        color: #212121;
+        margin-bottom: 10px;
+
+        &_stars {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        &_likes {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin-right: 20px;
+        }
+    }
+
+    &__description {
+        font-size: 14px;
+        line-height: 20x;
+        opacity: 0.5;
+    }
+}

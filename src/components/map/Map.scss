@@ -1,0 +1,17 @@
+.map {
+    padding: 50px;
+    width: 100%;
+
+    @media (min-width: 1921px) {
+        padding: 2.5vw;
+    }
+
+    display: flex;
+    flex-direction: row;
+
+    &__yamap {
+        padding: 50px;
+        width: 60%;
+        height: 60vh;
+    }
+}

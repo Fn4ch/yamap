@@ -1,8 +1,6 @@
 .side-bar {
+    position: relative;
     background-color: #0E1D27;
-    height: 100vh;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 320px;
+    min-width: 320px;
+    width: 27%;
 }
