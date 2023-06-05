@@ -5,3 +5,5 @@
 ### Install `yarn`
 
 ### Start dev server `yarn dev`
+
+Deployed app: https://vercel.com/fn4ch/yamap
