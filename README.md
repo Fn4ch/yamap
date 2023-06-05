@@ -2,6 +2,6 @@
 
 ## Available Scripts
 
-### `yarn`
+### Install `yarn`
 
-### `yarn dev`
+### Start dev server `yarn dev`
