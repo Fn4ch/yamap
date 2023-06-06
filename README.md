@@ -6,4 +6,4 @@
 
 ### Start dev server `yarn dev`
 
-Deployed app: https://vercel.com/fn4ch/yamap
+Deployed app: https://yamap-ejcp0gtkb-fn4ch.vercel.app/
